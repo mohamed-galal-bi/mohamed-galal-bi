@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Mohamed Galal
 
-<!--
-**mohamed-galal-bi/mohamed-galal-bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data Analyst | BI Developer  
+📊 Power BI, Excel, DAX, Power Query  
+🧠 ETL, Data Modeling & Data Visualization  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 About Me
+I’m a passionate Data Analyst focused on turning data into meaningful insights.  
+I enjoy building dashboards, analyzing business performance, and supporting data-driven decision-making.
+
+---
+
+### 🛠 Tools & Skills
+- Power BI
+- Excel
+- DAX
+- Power Query
+- SQL (currently learning)
+
+---
+
+### 📊 What I’m Working On
+- Building interactive Power BI dashboards  
+- Analyzing sales and business data  
+- Improving my SQL skills through hands-on practice  
+
+---
+
+### 📁 Featured Projects (Coming Soon)
+- Sales Performance Dashboard  
+- Healthcare Analytics Dashboard  
+- HR Analytics Dashboard  
+
+---
+
+📫 **Connect with me on LinkedIn:**  
+https://www.linkedin.com/in/mohamed-galal001
