@@ -31,7 +31,9 @@ I enjoy building dashboards, analyzing business performance, and supporting data
 ### 📁 Featured Projects (Coming Soon)
 - Sales Performance Dashboard  
 - Healthcare Analytics Dashboard  
-- HR Analytics Dashboard  
+- HR Analytics Dashboard
+- [Fitness Supplements Dashboard](https://github.com/mohamed-galal-bi/Data_Analysis_Project/tree/main/Fitness-Supplements-Dashboard)
+
 
 ---
 
