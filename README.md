@@ -29,8 +29,9 @@ I enjoy building dashboards, analyzing business performance, and supporting data
 ---
 
 ### 📁 Projects 
-- [Fitness Supplements Dashboard](https://github.com/mohamed-galal-bi/Data_Analysis_Project/tree/main/Fitness-Supplements-Dashboard)
+- [Fitness-Supplements-Dashboard](https://github.com/mohamed-galal-bi/Data_Analysis_Project/tree/main/Fitness-Supplements-Dashboard)
 - [Fleet-Management-Dashboard](https://github.com/mohamed-galal-bi/Data_Analysis_Project/tree/main/Fleet-Management-Dashboard)
+- [Finance-Analysis-Dashboard](https://github.com/mohamed-galal-bi/Data_Analysis_Project/tree/main/Finance-Dashboard)
   
 
 ---
